@@ -25,11 +25,12 @@ body {
   
   .menu {
     width: 80%;
-    background-color: burlywood;
+    background-color: blanchedalmond;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
+    border-radius: 20%;
   }
   
   img {
